@@ -21,7 +21,7 @@ git clone https://github.com/garypang13/luci-theme-edge  package/luci-theme-edge
 #插件
 #git clone https://github.com/jerrykuku/luci-app-vssr package/luci-app-vssr
 #git clone https://github.com/jerrykuku/lua-maxminddb package/lua-maxminddb
-svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-ssr-plus package/luci-app-ssr-plus
+svn co https://github.com/liuran001/openwrt-packages/trunk/luci-app-ssr-plus package/luci-app-ssr-plus
 #git clone https://github.com/vernesong/OpenClash package/luci-app-openclash
 #git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
